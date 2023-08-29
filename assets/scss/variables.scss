@@ -1,0 +1,42 @@
+$colour-white: #fff;
+$colour-black: #000000;
+$colour-orange: #fd836e;
+$colour-beige: #f6f4f2;
+$colour-grey2: #c4c4c4;
+$colour-dark-grey: #585858;
+$colour-light-grey: #f8f8f8;
+$colour-light-grey-2: #f2f2f2;
+$colour-slate-blue: #122634;
+$colour-blue: #31658b;
+$colour-mint: #ccfde2;
+$colour-bright-green: #55ffa1;
+$colour-grey-blue: #54656c;
+
+//Media Queries
+$media-xlarge: 1200px;
+$media-large: 1000px;
+$media-medium: 768px;
+$media-small: 500px;
+
+//Spacings
+$space-xxxlarge: 200px;
+$space-xxlarge: 100px;
+$space-xlarge: 50px;
+$space-large: 30px;
+$space-medium: 20px;
+$space-small: 10px;
+$space-xsmall: 5px;
+
+//Layout
+$container-width-desktop: 1300px;
+
+@mixin shadow-hover {
+  box-shadow: 0px 0px 15px 1px rgba(48, 131, 52, 0.21);
+  transition: 0.2s;
+
+  &:hover {
+    transition: 0.3s;
+    transform: translateY(-5px);
+    box-shadow: 0px 0px 35px 1px rgba(48, 131, 52, 0.21);
+  }
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 100 64.6" style="enable-background:new 0 0 100 64.6;" xml:space="preserve">
+<style type="text/css">
+	.chevron0{fill:##31658b;}
+</style>
+<g>
+	<path class="chevron0" d="M3.1,20.2c-2.9-2.9-2.9-7.5,0-10.3L10,3c2.9-2.9,7.5-2.9,10.3,0l29.4,29.4L79.1,3c2.9-2.9,7.5-2.9,10.3,0
+		l6.9,6.9c2.9,2.9,2.9,7.5,0,10.3L54.9,61.6c-2.8,2.9-7.4,2.9-10.3,0L3.1,20.2z"/>
+</g>
+</svg>
