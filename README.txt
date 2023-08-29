@@ -1,3 +1,1 @@
-https://joedormer.github.io/
-
-Joey Levels up
+https://joedormer.github.io/pages/1home.html
